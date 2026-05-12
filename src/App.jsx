@@ -18,7 +18,7 @@ import VerifyEmail from "./Pages/VerifyEmail/VerifyEmail";
 import WishList from "./Pages/WishList/WishList";
 import { ToastContainer } from "react-toastify";
 import ProductsProvider from "./Context/Products.Context";
-import CategoriesProvider from "./Context/Categoris.context";
+import CategoriesProvider from "./Context/Categories.context";
 import AuthProvider from "./Context/Auth.context";
 import ProtectedRoute from "./Components/ProtectedRoute/ProtectedRoute";
 import CartProvider from "./Context/Cart.Context";

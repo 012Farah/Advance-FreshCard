@@ -6,7 +6,7 @@ import React from "react";
 import { Link } from "react-router";
 import Loading from "../Loading/Loading";
 import { useContext } from "react";
-import { CategoriesContext } from "../../Context/Categoris.context";
+import { CategoriesContext } from "../../Context/Categories.context";
 import HomeCategoriesSkeleton from "../../Skeleton/HomeCategoriesSkeleton";
 
 

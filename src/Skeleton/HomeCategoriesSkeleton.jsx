@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 import React, { useContext } from "react";
 import { Link } from "react-router";
-import { CategoriesContext } from "../Context/Categoris.context";
+import { CategoriesContext } from "../Context/Categories.context";
 
 
 function HomeCategoriesSkeleton( ) {
