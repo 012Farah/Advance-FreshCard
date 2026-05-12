@@ -1,9 +1,6 @@
 import { createContext, useEffect, useState } from "react";
-import {
-  getWishlist,
-  addToWishlist,
-  removeFromWishlist,
-} from "../services/wishlist-service";
+import { getWishlist, addToWishlist, removeFromWishlist }
+from "../services/wishlist-service";;
 
 export const WishlistContext = createContext();
 
